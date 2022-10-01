@@ -1,0 +1,2 @@
+node 1.js url times threads proxy/off/proxy.txt
+node 1.js url times threads proxy/off/proxy.txt

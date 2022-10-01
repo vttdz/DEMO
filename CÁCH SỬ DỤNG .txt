@@ -1,0 +1,27 @@
+------------------------------------
+Cách Sử Dụng LionFake V4.5
+------------------------------------
+------------------------------------
+1: Setup
++ Vì Tools Này Hơi Lag Nên Khuyên Anh Em Chạy Ở Google Shell Nhé
+Không Nếu Nó Lag Thì Mình Không Biết Đâu 
++ Google Shell Chắc Nó Cài Sẵn Cho Anh Em 2 Ngôn Ngữ 
+Nodejs + Python3 Rồi Nếu GG Shell Của Ai Chưa Cài Thì
+Mọi Người Lại Lên Youtube Mak Tự Mò Nhé !
+------------------------------------
+2: Lệnh 
++ python lionfake_main.py
++ Nhấn help Để Xem Cách Dùng !
+------------------------------------
+Lưu ý: về Cái git clone vs cd Thì Mình Ko Hướng Dẫn Luôn 
+Về Nó Quá Ezz Ae Tự làm 
+------------------------------------
+Support Lỗi Lặt Vặt (Chưa pip đủ ; npm đủ)
+Zalo: 0896502726
+------------------------------------
+LƯU Ý CUỐI: MÁY THẰNG NÀO ĐỦ VIP THÌ CHẠY THẲNG = CMD LUÔN CÒN MÁY LỎ 
+LÊN GG SHELL CHẠY !
+- NẾU CHẠY = CMD THÌ DOWN NODEJS + PYTHON NHÁ :)
+
+
+
